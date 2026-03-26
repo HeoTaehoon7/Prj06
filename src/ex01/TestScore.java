@@ -114,7 +114,7 @@ public class TestScore {
 		Score.title();
 		
 		Score  sc1 = new Score(1,"사나",70,80,90);		 
-		sc1.disp();
+		sc1.disp();		
 		
 		Score  sc2 = new Score(2,"모모",0,70,100);
 		sc2.disp();
