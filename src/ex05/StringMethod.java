@@ -99,8 +99,8 @@ public class StringMethod {
 		String result2 = String.join("-", "2026", "10", "29");
 		System.out.println(result2);
 		
-		String star   = "*";
-		System.out.println(  star.repeat(5) );   
+		String star   = "*"; 
+		System.out.println(  star.repeat(5) ); // java 11   
 	}
 
 }
